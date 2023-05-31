@@ -21,3 +21,10 @@ print(f"Tracking URI: {mlflow.tracking.get_tracking_uri()}")
 print(f"Nombre del experimento: {experiment_name}")
 print(f"ID del experimento: {experiment_id}")
 ```
+
+Markdown:
+- [x] Header
+- [x] Image
+- [x] Code
+- [x] Task List
+- [ ] Presentation  
